@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Application de tâches</string>
+    <string name="add_button_label">Ajouter</string>
+    <string name="delete_button_label">Supprimer</string>
+    <!-- Translate other strings as needed -->
+</resources>
